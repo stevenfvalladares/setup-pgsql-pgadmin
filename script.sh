@@ -1,4 +1,14 @@
 #
+# Install Postgresql
+#
+
+# Update the repository package.
+sudo apt update
+
+# Install postgresql and all its dependencies on the system
+sudo apt install postgresql postgresql-contrib
+
+#
 # Setup the repository
 #
 
