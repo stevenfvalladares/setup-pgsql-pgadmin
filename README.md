@@ -31,7 +31,9 @@ Setting
 Server connection
 -----------------
 
-*   Step 1: images are added for configuration instructions:
+To configure a server it is necessary to enter the Postgresql graphical interface called pgAdmin. Its graphical interface supports all the features of PostgreSQL and greatly facilitates administration since it allows us to do SQL searches to develop our entire database in a very easy and intuitive way: directly from the graphical interface.
+
+*   Step 1: login to pgAdmin to start the configuration::
 
     <img alt="icon" src="./assets/images/pgadmin.svg" width="250" height="250" />
 *   Step 2: when entering the pgAdmin panel you must enter a master password:
