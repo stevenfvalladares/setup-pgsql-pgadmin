@@ -33,7 +33,7 @@ Server connection
 
 *   Step 1: images are added for configuration instructions:
     
-    ![icon](./assets/images/pgadmin_icon.jpg)
+    ![icon](./assets/images/pgadmin.svg)
 *   Step 2: when entering the pgAdmin panel you must enter a master password:
     
     ![screenshot 1](./assets/images/screenshot_1.png)
