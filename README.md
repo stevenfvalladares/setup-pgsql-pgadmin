@@ -32,11 +32,11 @@ Server connection
 -----------------
 
 *   Step 1: images are added for configuration instructions:
-    
-    ![icon|250](./assets/images/pgadmin.svg)
+
+    <img alt="icon" src="./assets/images/pgadmin.svg" width="250" height="250" />
 *   Step 2: when entering the pgAdmin panel you must enter a master password:
     
-    ![screenshot 1](./assets/images/screenshot_1.png)
+    <img alt="screenshot 1" src="./assets/images/screenshot_1.png" width="500" />
 *   Step 3: once inside pgAdmin in the panel we select add new server:
     
     ![screenshot 2](./assets/images/screenshot_2.png)
