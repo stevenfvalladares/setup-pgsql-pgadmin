@@ -33,19 +33,18 @@ Server connection
 
 To configure a server it is necessary to enter the Postgresql graphical interface called pgAdmin. Its graphical interface supports all the features of PostgreSQL and greatly facilitates administration since it allows us to do SQL searches to develop our entire database in a very easy and intuitive way: directly from the graphical interface.
 
-*   Step 1: login to pgAdmin to start the configuration::
+<img alt="icon" src="./assets/images/pgadmin.svg" width="250" height="250" />
 
-    <img alt="icon" src="./assets/images/pgadmin.svg" width="250" height="250" />
-*   Step 2: when entering the pgAdmin panel you must enter a master password:
+*   Step 1: login to pgAdmin to start you must enter a master password:
     
     <img alt="screenshot 1" src="./assets/images/screenshot_1.png" width="500" />
-*   Step 3: once inside pgAdmin in the panel we select add new server:
+*   Step 2: once inside pgAdmin in the panel we select add new server:
     
     ![screenshot 2](./assets/images/screenshot_2.png)
-*   Step 4: in the general tab we place the name of the server, it can be the name of your preference:
+*   Step 3: in the general tab we place the name of the server, it can be the name of your preference:
     
     ![screenshot 3](./assets/images/screenshot_3.png)
-*   Step 5: n the connection tab, we set the server IP, followed by the name of the database, username and password:
+*   Step 4: in the connection tab, we set the server IP, followed by the name of the database, username and password:
     
     ![screenshot 3](./assets/images/server_connection.png)
 
