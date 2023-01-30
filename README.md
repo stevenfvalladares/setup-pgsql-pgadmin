@@ -29,4 +29,22 @@ Setting
 `$ alter user username with superuser;`
 
 Server connection
---------------------------------------
+-----------------
+
+*   Step 1: images are added for configuration instructions:
+    
+    ![icon](./assets/images/pgadmin_icon.jpg)
+*   Step 2: when entering the pgAdmin panel you must enter a master password:
+    
+    ![screenshot 1](./assets/images/screenshot_1.png)
+*   Step 3: once inside pgAdmin in the panel we select add new server:
+    
+    ![screenshot 2](./assets/images/screenshot_2.png)
+*   Step 4: in the general tab we place the name of the server, it can be the name of your preference:
+    
+    ![screenshot 3](./assets/images/screenshot_3.png)
+*   Step 5: n the connection tab, we set the server IP, followed by the name of the database, username and password:
+    
+    ![screenshot 3](./assets/images/server_connection.png)
+
+
