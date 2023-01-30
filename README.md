@@ -47,5 +47,5 @@ To configure a server it is necessary to enter the Postgresql graphical interfac
 *   Step 4: in the connection tab, we set the server IP, followed by the name of the database, username and password:
     
     ![screenshot 3](./assets/images/server_connection.png)
-
+*   Step 5: to finish save all the changes made by pressing the save button located at the bottom right.
 
